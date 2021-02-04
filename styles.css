@@ -1,0 +1,10 @@
+html {
+    background: url("https://wallpapertag.com/wallpaper/full/1/f/d/738390-tropical-island-background-1920x1200-tablet.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+.card-welcome {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
